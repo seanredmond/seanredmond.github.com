@@ -13,7 +13,7 @@ layout: basic
 
 ## Currently
 
-Senior Developer/Front-end lead at the [New York Public Library](http://nypl.org)
+[New York Public Library](http://nypl.org)
 
 My team builds tools for library users like:
 
@@ -26,7 +26,5 @@ My team builds tools for library users like:
 
 [Online version](http://tindallgrams.net) of "The snarky memos of Apollo’s unsung genius." View the source and contribute on [Github](https://github.com/seanredmond/Tindallgrams)
 
-### Subjoin
 
-A practical Ruby parser for JSON-API. Get the [gem](https://rubygems.org/gems/subjoin), the [documentation](http://www.rubydoc.info/gems/subjoin/0.2.1), or the [source](https://github.com/seanredmond/subjoin)
 
